@@ -1,5 +1,4 @@
-# ProblemSolving
-Repository to have the solutions for listed problems.
+# Solutions For Problems in Codility
 
 STEPS TO EXECUTE:
 
@@ -16,4 +15,4 @@ Prerequistes:
 
 LIST OF PROBLEMS SOLVED:
 
-#Problem_1 - Binary Number Solution (Binary Gaps)
+#Problem_1 - Binary Gap
