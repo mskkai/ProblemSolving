@@ -1,4 +1,4 @@
-#Problem_1 - Binary Number Solution (Binary Gaps):
+#Problem - Binary Number Solution (Binary Gaps):
 
 Problem Description
 
