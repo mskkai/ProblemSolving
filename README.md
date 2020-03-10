@@ -1,10 +1,10 @@
-# Solutions For Problems in Codility
+# Solutions For Problems involving Datastructures and Algorithms
 
 STEPS TO EXECUTE:
 
 Prerequistes:
 
-    -- As i solved the solutions in typescript - Node, NPM, Typescript latest versions should be installed
+    -- As i solved few of the solutions in typescript - hence Node, NPM, Typescript latest versions should be installed
     -- IDE used: Vscode
 
 1) Clone the repository
