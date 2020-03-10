@@ -1,4 +1,4 @@
-#Problem_1 - Remove Element Solution (Binary Gaps):
+#Problem - Remove Element From Array
 
 Problem Description
 
